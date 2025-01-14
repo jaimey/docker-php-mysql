@@ -7,3 +7,5 @@
 
 # composer vendor files
 vendor/
+www
+!www/info.php
